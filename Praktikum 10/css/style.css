@@ -1,0 +1,23 @@
+.container{
+    background-color: lightblue;
+    width: 30%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+  .frm{
+    margin-left: 25%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  img{
+    margin-left: 25%;
+    margin-top: 10%;
+    width: 50%;
+    border-radius: 50%;
+  }
+  span{
+    color: red;
+ }
